@@ -1,6 +1,6 @@
 #include <sys/types.h>
 #include <unistd.h>
-#include <studio.h>
+#include <stdio.h>
 
 main(){
 	int return_value;
