@@ -1,9 +1,9 @@
 /*
 
-   Programa:   holamundo.c
+   Programa:   holaMundo.c
    Autor:	     Aram Tafoya 
    Objetivo:   Solicita un nombre e imprimir en pantalla
-   Compilar:   gcc -o holamundo holamundo.c
+   Compilar:   gcc -o holamundo holaMundo.c
    Ejecutar:   ./holamundo
 
 */
